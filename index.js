@@ -1,6 +1,6 @@
 /*
 Algoritmos e Programação — Ativ. 28/nov.
-Alunos: Gustavo Menezes, Leandro Rafael Rodrigues, Rodrigo Souza
+Alunos: Gustavo Menezes, Leandro Rafael Rodriguez, Rodrigo Souza
 */
 const prompt = require('prompt-sync')(); // Importa a biblioteca prompt-sync
 
